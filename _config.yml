@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://Twista.github.io
+title: Twista - blog
+email: me@twista.cz
+author: Michal Haták
+description: My blog
+paginate: 5
+google_analytics: 
